@@ -1,3 +1,7 @@
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/ef98a088-5850-40a2-a0d1-9091cfce44c7" />
+
+
+
 # BaroclWaves
 
 Coastal trapped waves with stratification, topography and a mean flow
